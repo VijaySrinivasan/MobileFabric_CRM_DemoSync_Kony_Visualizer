@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s099c042ee4642cbaea17a3a3beddb45",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s099c042ee4642cbaea17a3a3beddb45",
+    "id": "contactDetailEditBtn",
+    "ide_onClick": "AS_Button_9112773a4cf646a4a09e89ef744e3c94",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6c00c07da54e4c2bb90cfdff32a083bb",
+    "name": "kony.ui.Button",
+    "parent": "contactDetailCont1",
+    "pf": "frmContactDetails",
+    "wType": "Button",
+    "zindex": 1
+}

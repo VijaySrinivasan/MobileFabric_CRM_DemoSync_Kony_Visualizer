@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_86f8e32979864cbaba7189a98382a290": {
+        "id": "AS_FlexContainer_86f8e32979864cbaba7189a98382a290",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e8c858031ba84f00a9bd41dbbc5f0f3b"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_24b4473f4b2340f1a7f7c5283634e11d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getAccounts",
+            "display": "getAccounts",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s2ebdc6617c74d5f99903a88d48df979",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "contactDetailOppurtunityTypeLbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0540dd9fc76d4998a915ab02237e45e0",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "oppurtunityDetailLblCont",
+    "pf": "frmEditOppurtunityDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Form_54f97929e2aa41aeba22b0e910aa35fe": {
+        "id": "AS_Form_54f97929e2aa41aeba22b0e910aa35fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0c84fe69a75f4b178ea060e1ae667f33"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4ba127b857ac4c9f9d4dd0e9d7334cfd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLoginForm",
+            "display": "showLoginForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

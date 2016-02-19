@@ -1,0 +1,25 @@
+{
+    "AS_Button_f08ca6e865094ecfb299e37672d099cb": {
+        "id": "AS_Button_f08ca6e865094ecfb299e37672d099cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditAccountDetails1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "3113500fcf064c5297edc52eadd0102c"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c3908b85f7ea49d4ae9159c3719d1182",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveAccounts",
+            "display": "saveAccounts",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

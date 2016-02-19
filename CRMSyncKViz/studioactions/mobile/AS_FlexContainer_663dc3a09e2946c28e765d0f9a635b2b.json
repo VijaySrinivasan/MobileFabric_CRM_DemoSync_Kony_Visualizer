@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_663dc3a09e2946c28e765d0f9a635b2b": {
+        "id": "AS_FlexContainer_663dc3a09e2946c28e765d0f9a635b2b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e8c858031ba84f00a9bd41dbbc5f0f3b"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___27dc595927104487abd92088a1116b31",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getContacts",
+            "display": "getContacts",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

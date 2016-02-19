@@ -1,0 +1,24 @@
+{
+    "AS_Button_ce8e9bed5b2547e1803ab41d6434aa08": {
+        "id": "AS_Button_ce8e9bed5b2547e1803ab41d6434aa08",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccounts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae9eb1295da04322b0098ce4b51a27cf"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e7f4d4db9c9142afb20ea223c6746d42",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showDashboard",
+            "display": "showDashboard",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

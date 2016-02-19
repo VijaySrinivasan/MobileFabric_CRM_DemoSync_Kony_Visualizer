@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se08153af4054c189899c763d34edaea",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se08153af4054c189899c763d34edaea",
+    "id": "accountDetailSaveBtn",
+    "ide_onClick": "AS_Button_293694615e5c4c908a171fee266a4e8d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c1948e45a6ef4fa7907f188a7380aa72",
+    "name": "kony.ui.Button",
+    "parent": "accountDetailCont1",
+    "pf": "frmEditAccountDetails",
+    "wType": "Button",
+    "zindex": 1
+}

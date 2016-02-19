@@ -1,0 +1,24 @@
+{
+    "AS_Button_1e9e8f726da24bc9a36e28eed5cfb416": {
+        "id": "AS_Button_1e9e8f726da24bc9a36e28eed5cfb416",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditContactDetails1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cb1e0e83563146fe8a63c324e00c21a3"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a7012f0b53f2444794e1c199a5e1211d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveContacts",
+            "display": "saveContacts",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

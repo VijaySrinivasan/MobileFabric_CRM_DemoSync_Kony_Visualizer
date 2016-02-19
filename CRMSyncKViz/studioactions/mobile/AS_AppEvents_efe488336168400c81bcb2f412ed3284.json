@@ -1,0 +1,19 @@
+{
+    "AS_AppEvents_efe488336168400c81bcb2f412ed3284": {
+        "id": "AS_AppEvents_efe488336168400c81bcb2f412ed3284",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a4189e13416146db96c1af0ce448973a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MbaasInit",
+            "display": "MbaasInit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        3,
+        2,
+        1,
+        1
+    ],
+    "_skin_": "s9e350706340417bb8f930640822c9a0",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "51%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "contactDetailPhoneLbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "dc736066345247f2ac7ecbd899f87617",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "frmContactDetails",
+    "pf": "frmContactDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

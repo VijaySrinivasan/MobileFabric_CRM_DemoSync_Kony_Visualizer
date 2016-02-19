@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        3,
+        2,
+        1,
+        1
+    ],
+    "_skin_": "s0a4a04288e34b44983d0accbc4542e6",
+    "_text_": "Lead Source",
+    "_top_": {
+        "type": "string",
+        "value": "36%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.95%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "leadSourceLbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "1fb8d136d70f483d8c002a32ff84ed27",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "frmOppurtunityDetails",
+    "pf": "frmOppurtunityDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_da4acf06cc88457eb6caaa2f388e9c28": {
+        "id": "AS_Button_da4acf06cc88457eb6caaa2f388e9c28",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditLeadDetails1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7e95271decca427bb00fa3b26c9e42c5"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3d219b62b9804c048ad6f594e8fcbcd5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveLeads",
+            "display": "saveLeads",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

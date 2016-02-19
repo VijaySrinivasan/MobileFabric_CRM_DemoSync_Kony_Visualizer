@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        3,
+        2,
+        1,
+        1
+    ],
+    "_skin_": "s3db7d43c4a84e43ac8fca8a9b988b32",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "41%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "accountDetailRevenueLbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "a6f11f86d1744b83b301f7383a9ce07c",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "frmAccountDetails",
+    "pf": "frmAccountDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

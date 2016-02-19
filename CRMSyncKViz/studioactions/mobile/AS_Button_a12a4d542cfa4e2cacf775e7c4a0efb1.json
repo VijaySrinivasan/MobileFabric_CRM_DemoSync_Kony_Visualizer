@@ -1,0 +1,25 @@
+{
+    "AS_Button_a12a4d542cfa4e2cacf775e7c4a0efb1": {
+        "id": "AS_Button_a12a4d542cfa4e2cacf775e7c4a0efb1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLeadDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a53b6e8cd7fa4abb9f764d22644e5540"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4421c657bbd8408ab0ff933562bc712b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveLeads",
+            "display": "saveLeads",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

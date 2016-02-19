@@ -1,0 +1,37 @@
+{
+    "AS_Segment_d7c25dba8355423d88be1d59cf6c8889": {
+        "id": "AS_Segment_d7c25dba8355423d88be1d59cf6c8889",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmOppurtunities",
+            "type": "forms",
+            "platform": null,
+            "KUID": "228f4d6e42fb453899ad7b196e5a13e4"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___89821f0e5d7144238a976afb952c6d6b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showOpportunityDetails",
+            "display": "showOpportunityDetails",
+            "inputparams": [{
+                "name": "opportunityDetails",
+                "value": "opportunityDetails"
+            }, {
+                "name": "listIndex",
+                "value": " rowNumber"
+            }],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

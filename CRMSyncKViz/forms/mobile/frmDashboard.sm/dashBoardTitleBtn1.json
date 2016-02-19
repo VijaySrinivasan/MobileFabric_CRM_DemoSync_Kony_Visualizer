@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbc84ba4b5bf4d32bb402ca979d3e581",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s73c99349a5b411dac4924415d1fa9b2",
+    "id": "dashBoardTitleBtn1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "69ca98b6258340b59f27e1bf5e328808",
+    "name": "kony.ui.Button",
+    "parent": "dashBoardTitleCont",
+    "pf": "frmDashboard",
+    "wType": "Button"
+}

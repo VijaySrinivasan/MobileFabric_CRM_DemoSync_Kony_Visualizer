@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1f502b97c1a495f95954d96878c8763",
+    "_src_": "leads.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmDashboard",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "leadsImg",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "86d2914dd7b84182bd81d4be52b5dff9",
+    "name": "kony.ui.Image2",
+    "parent": "leadsCont",
+    "pf": "frmDashboard",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

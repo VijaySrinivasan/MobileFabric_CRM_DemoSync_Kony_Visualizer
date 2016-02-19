@@ -1,0 +1,25 @@
+{
+    "AS_Button_890b3a9dc4fd4642863ec4991c26a8a6": {
+        "id": "AS_Button_890b3a9dc4fd4642863ec4991c26a8a6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccounts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae9eb1295da04322b0098ce4b51a27cf"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___832c14f576b048fead0861b5e40dbb2b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "startSync",
+            "display": "startSync",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

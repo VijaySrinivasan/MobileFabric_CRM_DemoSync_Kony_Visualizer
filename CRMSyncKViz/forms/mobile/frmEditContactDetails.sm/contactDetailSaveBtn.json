@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se08153af4054c189899c763d34edaea",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se08153af4054c189899c763d34edaea",
+    "id": "contactDetailSaveBtn",
+    "ide_onClick": "AS_Button_1e9e8f726da24bc9a36e28eed5cfb416",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d7587f5c327a4351965f9321e9418d76",
+    "name": "kony.ui.Button",
+    "parent": "contactDetailCont1",
+    "pf": "frmEditContactDetails",
+    "wType": "Button",
+    "zindex": 1
+}

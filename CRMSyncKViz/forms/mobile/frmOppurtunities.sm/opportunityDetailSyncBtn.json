@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4.50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s66362dc240e4742b3cec4ae5c1a0f0d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "11%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s66362dc240e4742b3cec4ae5c1a0f0d",
+    "id": "opportunityDetailSyncBtn",
+    "ide_onClick": "AS_Button_914cca807e844b60a72959da7cde8135",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f928de7f35e140ef835c73634218730f",
+    "name": "kony.ui.Button",
+    "parent": "opportunityDetailTitleCont",
+    "pf": "frmOppurtunities",
+    "wType": "Button",
+    "zindex": 1
+}

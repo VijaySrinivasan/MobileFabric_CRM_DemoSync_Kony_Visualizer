@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se08153af4054c189899c763d34edaea",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se08153af4054c189899c763d34edaea",
+    "id": "leadDetailSaveBtn",
+    "ide_onClick": "AS_Button_6dce6b629c0343f390e74ef50a69a49d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9b9f85ac27304f9899dda8b88c670765",
+    "name": "kony.ui.Button",
+    "parent": "leadDetailCont1",
+    "pf": "frmEditLeadDetails",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb614a8a2f8d48d2bade5a1b40b8067e",
+    "_top_": {
+        "type": "string",
+        "value": "28%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "oppurtunitiesImg",
+        "oppurtunitiesLbl"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "oppurtunitiesCont",
+    "ide_onTouchEnd": "AS_FlexContainer_5ca8eb2029a84eaf96f8ba3804cc4752",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8f604ac5a8114dde8ff0033d8052ee92",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmDashboard",
+    "pf": "frmDashboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

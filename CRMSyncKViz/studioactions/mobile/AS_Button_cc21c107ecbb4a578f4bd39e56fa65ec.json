@@ -1,0 +1,25 @@
+{
+    "AS_Button_cc21c107ecbb4a578f4bd39e56fa65ec": {
+        "id": "AS_Button_cc21c107ecbb4a578f4bd39e56fa65ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOppurtunities",
+            "type": "forms",
+            "platform": "",
+            "KUID": "228f4d6e42fb453899ad7b196e5a13e4"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e842462590a4418da981290fd73e2ae9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showDashboard",
+            "display": "showDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

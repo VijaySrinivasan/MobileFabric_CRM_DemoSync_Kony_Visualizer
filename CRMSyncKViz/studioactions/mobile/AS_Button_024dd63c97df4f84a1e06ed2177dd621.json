@@ -1,0 +1,25 @@
+{
+    "AS_Button_024dd63c97df4f84a1e06ed2177dd621": {
+        "id": "AS_Button_024dd63c97df4f84a1e06ed2177dd621",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditOppurtunityDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "92f219187b5e4e8cb83f5005c240069d"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___21f8d870170440feaf191f2e30f2cba4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveOpportunity",
+            "display": "saveOpportunity",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

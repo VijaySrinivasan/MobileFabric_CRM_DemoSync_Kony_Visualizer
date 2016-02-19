@@ -1,0 +1,19 @@
+{
+    "AS_TitleBar_f79a0e88b58f4c44b75370e202b7aecc": {
+        "id": "AS_TitleBar_f79a0e88b58f4c44b75370e202b7aecc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION___124a198e20364d86b151207b17c06a76",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showDashboard",
+            "display": "showDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
