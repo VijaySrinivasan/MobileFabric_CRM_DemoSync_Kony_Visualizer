@@ -53,5 +53,5 @@ You need to setup and configure your Kony MobileFabric environment on your cloud
  * Android
  * iPhone
 
- **Supported Kony Visualizer Version:** 7.0
+ **Supported Kony Visualizer Enterprise Version:** 7.0
 
